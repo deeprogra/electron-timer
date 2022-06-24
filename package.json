@@ -132,7 +132,7 @@
     "flow-bin": "^0.36.0",
     "flow-typed": "^2.0.0",
     "html-webpack-plugin": "^2.24.1",
-    "jsdom": "^9.8.3",
+    "jsdom": "^16.5.0",
     "json-loader": "^0.5.4",
     "minimist": "^1.2.0",
     "mocha": "^3.2.0",
